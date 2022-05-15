@@ -1,0 +1,26 @@
+body{
+    background-color: #E9EDF0;
+}
+
+.pop{color:red;
+font-weight: bolder;}
+
+.column {
+    width: 100%;
+    padding: 16px;
+    display: block;
+    margin-bottom: 20px;
+    padding: 1em 2em;
+    column-gap: 20px
+  }
+  
+  
+.card {
+    border: 1px solid #ccc;
+    background-color: #f4f4f4;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin-bottom: 20px;
+    flex: auto;
+  
+  }
